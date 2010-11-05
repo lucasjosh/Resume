@@ -7,27 +7,12 @@ Monrovia, CA 91016
 [GitHub](http://github.com/lucasjosh)  
 [Blog](http://lucasjosh.com/blog)  
 
-Skills
-----------------
-
-* Code
-  * Java
-  * Ruby
-  * Python
-
-* Tools
-  * Lucene
-  * Solr
-  * Rails
-  * MySQL
-  * Tomcat
-  * Hibernate
-
 Work Experience
 ---------------
 __AT&T Interactive__  
 Lead Software Engineer  
 January 2010 - Current  
+
 Led a small team of developers to rebuild a local search engine from a prototype into a search platform powering yp.com, m.yp.com and external partners.  
 
 * Used Lucene / Solr for search engine and Tomcat for HTTP interface 
@@ -57,6 +42,24 @@ December 2004 - September 2008
 * Designed and developed a local information portal for EarthLink's municipal wireless cities including Philadelphia and Anaheim. This took data used by other EarthLink properties as well as third-parties and only showed local information. Implemented in Ruby-on-Rails.
 * Implemented 'Google One Box'-type functionality for select topics at search.earthlink.net
 * Re-designed and developer user preferences storage engine for user data and Web preferences to support 5 million members. Used by my.earthlink.net ( customer portal )
+
+Skills
+----------------
+
+* Code
+  * Java
+  * Ruby
+  * Python
+
+* Tools
+  * Lucene
+  * Solr
+  * Rails
+  * MySQL
+  * Tomcat
+  * Hibernate
+
+
 
 Education
 ---------------  
