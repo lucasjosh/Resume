@@ -1,87 +1,67 @@
-Daniel Mayer  
-dan@mayerdan.com  
-503-819-3246  
-821 Maryland Ave NE #305  
-Washington, DC 20002  
+Josh Lucas
+jl@lucasjosh.com
+626.379.5580
+530 W. Duarte Rd., #C
+Monrovia, CA 91016 
 
-[GitHub](http://github.com/danmayer)  
-[Blog](http://mayerdan.com)  
+[GitHub](http://github.com/lucasjosh)  
+[Blog](http://lucasjosh.com/blog)  
 
 Skills
 ----------------
 
-* Ruby
-  * Rails
-  * Sinatra
-  * Merb
-  * EventMachine
-  * DataMapper
-  * Custom EventMachine-based protocols
+* Code
+  * Java
+  * Ruby
+  * Python
 
 * Tools
-  * Linux
-  * OS X
-  * Javascript (JQuery/Prototype)
-  * HTML
-  * Amazon Web Services (Ec2, SimpleDB, S3, SQS)
-  * Distributed Computing
-  * Apache
+  * Lucene
+  * Solr
+  * Rails
   * MySQL
-  * PostgreSQL
-  * Schemaless DBs (NoSql)
-  * RESTul webservice API's
-
-* Style
-  * Pair Programming
-  * Test-Focused Development
-  * Distributed Teams
-  * Agile team management
-  * Contributor to Ruby OSS software
-  * Active on Github
+  * Tomcat
+  * Hibernate
 
 Work Experience
 ---------------
-__LivingSocial__  
-Software Developer  
-June 2010 - Current  
-Working with a small team of developers to grow LivingSocial. Working on mobile apps, mobile site, APIs, and backend tools.  
+__AT&T Interactive__  
+Lead Software Engineer  
+January 2010 - Current  
+Led a small team of developers to rebuild a local search engine from a prototype into a search platform powering yp.com, m.yp.com and external partners.  
 
-__Devver__  
-Founder / CTO / Ruby Software Developer  
-April 2008 - April 2010  
-Software startup to make the lives of developers easier. Originally developed accelerated testing for Ruby developers. More recently, launched getcaliper.com, which builds code analytics for all Rubygems and builds metrics for public and private git-based Ruby projects.  
+* Used Lucene / Solr for search engine and Tomcat for HTTP interface 
+* Moved functionality out of proprietary FAST technology and into Lucene / Solr
 
-* Built accelerated testing tool, using distributed computing services to run developer tests
-* Developed a cloud-based continuous integration server and notification services
-* Developed cloud-based code metrics and analytics project analyzer, which integrated with Rubygems.org to provide analytics on all public Rubygems and many OSS git-based projects (7000+ projects)
-* Member of a distributed agile team -- practiced daily standups, remote pair programming, and continuous integration
-* Worked extensively with cloud based services and distributed computing techniques. (EC2, Beanstalkd queues, Schemaless SimpleDB, S3)
-* Developed and deployed EventMachine, Merb, Rails, and Sinatra in production environments
+__AT&T Interactive__
+Sr. Software Engineer
+January 2009 - December 2009
 
-__Pretheory__  
-Founder  
-May 2007 - April 2008  
-Small Denver-based consumer web startup. Built [Seekler.com](http://seekler.com) to help people find the best of everything online by user generated, community-based top 10 lists on topics or products. Seekler was a social way to rank things with friends or the entire community.  
+* Developed internal service API using Ruby to translate between Rails front-end and Solr backend
+* Developed Lucene / Solr local search prototype
+* Developed initial search indexer, moving data out of Oracle database and inputting into Solr indexes
 
-__Indigio__  
-Java Lead Engineer  
-August 2006 - May 2007  
-Developed web sites for Fortune 500 companies. Managed a small Java team with local and international remote employees.  
+__Los Angeles Times Interactive__  
+Technical Lead Software Engineer
+September 2008 - January 2009  
 
-* Developed and deployed large scale newspaper, real estate, and car rental companies Java sites
+* Designed and developed articles.latimes.com, an online archive of Los Angeles Times content. Currently, it is from the middle of 1997 to the present-day but soon it will go back to 1985. 
+* Designed and developed RSS / Content aggregator for use by topics.latimes.com and articles.latimes.com. Crawled select blogs and sites, used Solr for storage and search
+* Designed and developed topics.latimes.com, a Ruby-on-Rails project to aggregate LA Times content as well as third-party content.
 
+__EarthLink__
+Sr. Software Engineer
+December 2004 - September 2008
 
-__Impact Science & Technology (IST)__  
-Java Software Engineer  
-December 2005 - June 2006  
-Developed full lifecycle of a DOD distributed synchronous infrastructure in Java.  
-
+* Designed and developed behavioral event tracking system to collect user data based on their interaction with Web sites and desktop applications. Created interface to cut thru data for use by project managers.
+* Designed and developed a local information portal for EarthLink's municipal wireless cities including Philadelphia and Anaheim. This took data used by other EarthLink properties as well as third-parties and only showed local information. Implemented in Ruby-on-Rails.
+* Implemented 'Google One Box'-type functionality for select topics at search.earthlink.net
+* Re-designed and developer user preferences storage engine for user data and Web preferences to support 5 million members. Used by my.earthlink.net ( customer portal )
 
 Education
 ---------------  
-University of Colorado  
-Boulder, CO  
-B.S., Computer Science  
-GPA: 3.185  
+Moody Bible Institute
+Chicago, IL
+Studied Communications
 
 _References available on request_  
